@@ -1,4 +1,5 @@
 source 'https://rubygems.org'
 gem 'minitest', '~> 5.4'
 
-gem 'pry'
+gem 'reek'
+gem 'rubocop'
